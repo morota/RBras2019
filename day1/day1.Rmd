@@ -24,6 +24,16 @@ options(htmltools.dir.version = FALSE)
 
 
 
+---
+# Tapioca!
+<img src="tapiokaBr.jpg" width=700 height=450>
+
+
+
+---
+# Tapioca!
+<img src="tapiocaJP.jpg" width=700 height=450>
+
 
 ---
 class: inverse, center, middle
