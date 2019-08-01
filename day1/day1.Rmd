@@ -17,8 +17,6 @@ options(htmltools.dir.version = FALSE)
 
 
 
-
----
 # About me 
 ![](map.png)
 
