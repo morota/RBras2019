@@ -446,7 +446,7 @@ $$\mathbf{y = Xb + Zu + e}$$
 
 - BLUE: $\hat{\mathbf{b}} = (\mathbf{X'V^{-1}X})^{-}\mathbf{X'V^{-1}y}$; BLUP: $\hat{\mathbf{u}} = \mathbf{KZ'}\mathbf{V^{-1}}(\mathbf{y - X\hat{b}})$
 
-- where $\mathbf{V} = \mathbf{ZKZ' + R}$
+- where $\mathbf{V} = \mathbf{ZK\sigma^2_{u}Z' + R\sigma^2_{e}}$
 
 ---
 # Mixed model equations (Henderson)
