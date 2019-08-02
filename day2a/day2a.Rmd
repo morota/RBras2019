@@ -220,7 +220,7 @@ Hybrid algorithm
 
 
 ---
-# Genetic correlations among latent variable
+# Genetic correlations among latent variables
 <img src="Cor_plot_for_presentation.png" height="530px" width="700px"/>
 
 ---
