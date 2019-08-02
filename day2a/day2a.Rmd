@@ -194,7 +194,7 @@ Probabilistic directed acyclic graphical model
 
 ---
 # Score-based learning
-<img src="Score-based-diagram.pdf" height="500px" width="700px"/>
+<img src="Score-based-diagram.png" height="500px" width="700px"/>
 
 
 ---
